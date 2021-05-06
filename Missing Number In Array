@@ -1,0 +1,26 @@
+Class Array
+{
+Public static void main(string args())
+{
+Int[] array=new int[100];
+For(int i=0;i<100;i++)
+{
+System.out.println("Enter array number"+array[i]);
+}
+Int result=100(100+1)/2
+Int result 1;
+For(int i=0;I<array.length;i++)
+{
+Result 1=result 1 + array [i];
+}
+If(result - result == 0)
+{
+System.out.println("no number is missing");
+}
+Else
+{
+Int missing number = result - result 1;
+System.out.println("missing number is"+ missing number);
+}
+}
+}
